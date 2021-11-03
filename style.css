@@ -36,8 +36,8 @@ body {
       text-align: left; 
     }
     img {
-      position: absolute;
+      position: fixed;
       left:5;
-      top:100;
+      top:50;
       
   }
