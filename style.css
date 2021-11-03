@@ -35,7 +35,10 @@ body {
       margin: auto;
       text-align: left; 
     }
-    #hp  {
-      float: left;    
-       margin: 0 15px 0 0;
-      }
+    img {
+      width: 2230px;
+      height: 270px;
+      position: absolute;
+      left:5;
+      top:5;
+  }
