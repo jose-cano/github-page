@@ -1,0 +1,36 @@
+body {
+    background-color: white;
+    margin: 0px;
+  }
+
+.nav {
+    text-align: left;
+    padding: 25px;
+    border: black 1px solid;
+    }
+    .nav > a{
+      background-color: whitesmoke;
+      font-size: 17px;
+      font-family: Arial, Helvetica, sans-serif;
+      padding: 12px 24px;
+      margin: 7px;
+      border-radius: 5px;
+      text-decoration: none;
+      color:black;
+      transition: background-color 0.3s linear 0s;
+    }
+    .nav > a:hover {
+    background-color: black;
+    color: white;
+    }
+    .center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 60%;
+    }
+    .content {
+      width: 100%; max-width: 800px;
+      margin: auto;
+      text-align: left; 
+    }
