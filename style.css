@@ -36,7 +36,10 @@ body {
       text-align: left; 
     }
     img {
-      position: fixed;
+      width: auto;
+      max-width: 100%;
+      height: auto;
+      position: relative;
       left:25;
       top:50;
       
