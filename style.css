@@ -40,3 +40,6 @@ body {
       max-width: 60%;    
       margin: 10px 15px 0 0;
 }
+p {
+  text-align: justify;
+}
