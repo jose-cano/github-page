@@ -37,9 +37,7 @@ body {
     }
     img {
       width: auto;
+      float: left;
       max-width: 100%;
       height: auto;
-      left:25;
-      top:50;
-      
   }
